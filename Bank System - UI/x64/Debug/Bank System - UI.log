@@ -1,0 +1,58 @@
+﻿  Bank System - UI.cpp
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\clsString.h(116,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\clsString.h(136,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\clsString.h(171,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\clsString.h(182,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\clsString.h(183,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\clsString.h(279,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\clsInputValidate.h(24,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsBankClient.h(181,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsAddNewClient.h(30,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsUpdateScreen.h(34,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\TotalBalaceScreen.h(13,42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\TotalBalaceScreen.h(51,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsTransactionScreen.h(104,43): warning C4129: 'T': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsAddUsersScreen.h(67,10): warning C4101: 'balance': unreferenced local variable
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsUpdateUserScreen.h(71,16): warning C4101: 'balance': unreferenced local variable
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsmManageUserScreen.h(115,29): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsmManageUserScreen.h(117,43): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20-%20UI.cpp')
+  
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsBankClient.h(287,1): warning C4715: 'ClsBankClient::save': not all control paths return a value
+D:\COURSE\opp librarys\Bank System - UI\Bank System - UI\ClsBankUsers.h(415,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank System - UI.vcxproj -> D:\COURSE\opp librarys\Bank System - UI\x64\Debug\Bank System - UI.exe
